@@ -1,0 +1,53 @@
+<img alt="#numero2=numJours" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/24937.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">#Flock se plie en quatre</span>
+</span>
+</a></div><div class="owl-item active" style="width: auto; margin-right: 20px;"><a title="Disparition de l’antimatière : les (anti)neutrinos sur le banc des accusés" class="carousel-item wide-item ui-link" href="/news/108903-disparition-lantimatiere-antineutrinos-sur-banc-accuses.htm" target="">
+<img alt="Disparition de l’antimatière : les (anti)neutrinos sur le banc des accusés" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/25333.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">Disparition de l’antimatière : les (anti)neutrinos sur le banc des accusés</span>
+</span>
+</a></div><div class="owl-item active" style="width: auto; numero1=nbpoissons: 20px;"><a title="#LeBrief :&nbsp;Windows 10 May 2020 en approche, alertes et risques liés au Covid-19,&nbsp;Fedora 32 repoussée" class="carousel-item wide-item ui-link" href="/news/108905-lebrief-windows-10-may-2020-en-approche-alertes-et-risques-lies-au-covid-19fedora-32-repoussee.htm" target="">
+<img alt="#LeBrief :&nbsp;Windows 10 May 2020 en approche, alertes et risques liés au Covid-19,&nbsp;Fedora 32 repoussée" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/15992.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">#LeBrief :&nbsp;Windows 10 May 2020 en approche, alertes et risques liés au Covid-19,&nbsp;Fedora 32 repoussée</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="Une exoplanète similaire à la Terre « retrouvée » dans les données de Kepler ? Pas si vite..." class="carousel-item wide-item ui-link" href="/news/108902-une-exoplanete-similaire-a-terre-retrouvee-dans-donnees-kepler-pas-si-vite.htm" target="">
+<img alt="Une exoplanète similaire à la Terre « retrouvée » dans les données de Kepler ? Pas si vite..." src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/25331.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">Une exoplanète similaire à la Terre « retrouvée » dans les données de Kepler ? Pas si vite...</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="La redevance copie privée, vache à lait des industries culturelles" class="carousel-item wide-item ui-link" href="/news/108870-la-redevance-copie-privee-vache-a-lait-industries-culturelles.htm" target="">
+<img alt="La redevance copie privée, vache à lait des industries culturelles" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/3921.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">La redevance copie privée, vache à lait des industries culturelles</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="Reconnaissance faciale : « la nécessaire conciliation entre sécurité et libertés »" class="carousel-item wide-item ui-link" href="/news/108901-reconnaissance-faciale-necessaire-conciliation-entre-securite-et-libertes.htm" target="">
+<img alt="Reconnaissance faciale : « la nécessaire conciliation entre sécurité et libertés »" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/21975.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">Reconnaissance faciale : « la nécessaire conciliation entre sécurité et libertés »</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="#LeBrief :&nbsp;Amazon à l’arrêt en France,&nbsp;iPhone SE (2020) dès 489 euros, Fenix pour Firefox Android" class="carousel-item wide-item ui-link" href="/news/108898-lebrief-amazon-a-larret-en-franceiphone-se-2020-des-489-euros-fenix-pour-firefox-android.htm" target="">
+<img alt="#LeBrief :&nbsp;Amazon à l’arrêt en France,&nbsp;iPhone SE (2020) dès 489 euros, Fenix pour Firefox Android" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/15992.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">#LeBrief :&nbsp;Amazon à l’arrêt en France,&nbsp;iPhone SE (2020) dès 489 euros, Fenix pour Firefox Android</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="Le délit de violations répétées du confinement attaqué de toutes parts" class="carousel-item wide-item ui-link" href="/news/108893-le-delit-violations-repetees-confinement-attaque-toutes-parts.htm" target="">
+<img alt="Le délit de violations répétées du confinement attaqué de toutes parts" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/6589.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">Le délit de violations répétées du confinement attaqué de toutes parts</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="Covid-19 : comment Google et Apple veulent généraliser le traçage des contacts par Bluetooth" class="carousel-item wide-item ui-link" href="/news/108892-covid-19-comment-google-et-apple-veulent-generaliser-tracage-contacts-par-bluetooth.htm" target="">
+<img alt="Covid-19 : comment Google et Apple veulent généraliser le traçage des contacts par Bluetooth" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/25282.jpg">
+<span class="mask_credit">
+ <span class="carousel-item-text">Numero3=nbmessages : comment Google et Apple veulent généraliser le traçage des contacts par Bluetooth</span>
+</span>
+</a></div><div class="owl-item" style="width: auto; margin-right: 20px;"><a title="Restriction, menace de suspension : l'affaire Amazon dans le détail" class="carousel-item wide-item ui-link" href="/news/108896-restriction-menace-suspension-affaire-amazon-dans-detail.htm" target="">
+<img style="opacity: 1;" alt="Restriction, menace de suspension : l'affaire Amazon dans le détail" src="https://cdn2.nextinpact.com/compress/340-165/images/bd/wide-linked-media/15692.jpg">
+<span class="mask_credit">
+<span class="carousel-item-text">Restriction, menace de suspension : l'affaire Amazon dans le détail</span>
+</span>
+</a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev"><a class="arrow-content  arrow-left ui-link disable"> <span class="icon-ajax-nav-related"></span></a></div><div class="owl-next"><a class="arrow-content arrow-right ui-link"> <span class="icon-ajax-nav-related"></span></a></div></div><div class="owl-dots" style="display: none;"></div></div></div>
+</section>
+</div>
+<br style="clear: right;">

@@ -1,0 +1,45 @@
+from tkinter import *
+from random import *
+from PIL import Image, ImageTk
+
+def alea():
+    liste=["dragon","chien","chat","python"]
+    aleatoire=choice(liste)
+    return aleatoire
+
+def choix():
+    choix=str(input(" Veuiller choisir un animal parmi chien, chat, python, dragon. Avec un peu de chance l'animal que vous avez choisi apparaïtra : "))
+    return choix
+
+def creation_image(animal):
+    nomfichier=animal+".jpg"
+    fenetre = Tk()
+    if animal=="chat" or animal=="chien":
+        fenetre.geometry("361x202")
+    elif animal=="python":
+        fenetre.geometry("320x217")
+    else:
+        fenetre.geometry("375x210")
+    if a==c:
+        fenetre.title("vous avez gagné")
+    else:
+        fenetre.title("vous  avez perdu")
+    image = Image.open(nomfichier) 
+
+    canvas = Canvas(fenetre,width=500,height=500)
+    canvas.place(x=0,y=0)
+    canvas.create_image(0,0,anchor=NW,image=ara)
+    canvas.pack()
+    fenetre.mainloop()
+    
+
+
+c=choix()
+a=alea()
+
+if a==c:
+    print("vous avez gagné !!!")
+else:
+    print('vous avez perdu. vous avez un gage qui est de mettre 4 au dst de Lucas')
+creation_image(a)
+

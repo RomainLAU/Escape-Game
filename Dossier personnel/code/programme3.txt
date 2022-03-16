@@ -1,0 +1,50 @@
+#Fonction qui permet de calculer le nb de pieces
+# valeur :  valeur de la pièce
+# rendre : somme d'argent initiale
+def machine(valeur,rendre):
+    #calcul du nombre de pièces
+    rendre2=round(rendre%valeur,1)
+    nbpiece=round((rendre-rendre2)/valeur,1)
+    # en fonction du nb de pièce, on renvoit le montant restant pour le calcul suivant
+    if nbpiece>=0:
+        # dans le tableau, ajout du nb de pièces ayant comme valeur valeur
+        rendu.append(nbpiece)
+        return(rendre2)
+    else:
+        return(rendre)
+        
+#Demande  la quantité d'argent à rendre
+rendre=float(input("Combien d'argent faut-il rendre : "))
+#Tableau des valeurs de pièces
+piece=[2,1,0.5,0.2,0.1]   
+
+indice_piece=0
+
+# liste vide représentant le nb de pièces à rendre. dans le meme ordre que le tableau pièce
+rendu=[]    
+resultat='La machine te rendra'
+compte=0
+#☻Boucle permettant de calculer les pièces à rendre
+while compte==0:
+    # Appelle de la fonction pour calculer le nb de pièces ayant comme valeur piece[indice] ainsi que le montant restant
+    rendre2=machine(piece[indice_piece],rendre)
+    #S'il reste encore de l'argent la boucle continue, sinon on sort de la boucle
+    if rendre2==0:           
+        compte=1
+    else:
+        indice_piece+=1
+        rendre=rendre2
+        
+#Création de la phrase présentant le résultat
+for taille in range(len(rendu)):
+    phrasef1=str(int(rendu[taille]))
+    phrasef2=str(piece[taille])
+    # si pour cette valeur de pièce, il y a des pieces à rendre
+    if rendu[taille]>0:
+        resultat=resultat+' '+phrasef1+' '+'piece(s) de'+' '+phrasef2 + ' €'
+        if taille+1==len(rendu):
+            resultat+="."
+        else:
+            resultat+=","
+
+print(resultat)

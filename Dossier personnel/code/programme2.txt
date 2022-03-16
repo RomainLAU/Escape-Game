@@ -1,0 +1,29 @@
+masse=[12,2,1,1,4]
+prix=[4,2,2,1,10]
+objet=["objet1","objet2","objet3","objet4","objet5"]
+objetsac=[]
+masse_sac=15
+indice=0
+prixsac=0
+while masse_sac>0:
+    a=0
+    for i in range(len(masse)):
+       b=prix[i]/masse[i]
+       if a<b:
+           a=b
+           indice=i
+    if masse_sac-masse[indice]<0:
+        del objet[indice]
+        del masse[indice]
+        del prix[indice]
+    elif masse_sac-masse[indice]>0:
+        objetsac.append(objet[indice])
+        del objet[indice]
+        masse_sac-=masse[indice]
+        del masse[indice]
+        prixsac+=prix[indice]
+        del prix[indice]
+    if len(masse)==0:
+        masse_sac=-1
+print(objetsac)
+print("Le prix dans le sac est de ",prixsac,"€")
