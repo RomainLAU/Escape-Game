@@ -20,7 +20,7 @@ Your objective is simple, get out of this office with the compromising informati
 
 ## Students who worked on the project:
 
-Laurent Romain: developped the game on Unreal Engine 4,
-Mignon Lucas: developped the hint system with Python,
-Maillot Flavien: found the subject of riddles,
-Rodière Rémi: developped all python scripts (except the hint script) and created all the riddles.
+- Laurent Romain: developed the game on Unreal Engine 4,
+- Mignon Lucas: developed the hint system with Python,
+- Maillot Flavien: found the subject of riddles,
+- Rodière Rémi: developed all python scripts (except the hint script) and created all the riddles.
