@@ -24,3 +24,5 @@ Your objective is simple, get out of this office with the compromising informati
 - Mignon Lucas: developed the hint system with Python,
 - Maillot Flavien: found the subject of riddles,
 - Rodière Rémi: developed all python scripts (except the hint script) and created all the riddles.
+
+#### As we did this during college and we are french students, the game is fully in french (sorry :disappointed: ...)
